@@ -4,5 +4,6 @@
 * Particularly demonstrates Data preprocessing, model building, augmentation techniques, transfer learning, and multiclass classification
 
 * These notebooks are submitted as part of assignments while completing a course in Coursera
-    [https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome]
+  https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
+  
 * Skills - ConvNets, Overfitting, Data Augumentation, Keras ImageDataGenerator, Dropout, Multi-class classifier
