@@ -8,3 +8,8 @@
   https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
   
 * Skills -> ConvNets, Overfitting, Data Augumentation, Keras ImageDataGenerator, Dropout, Multi-class classifier, Tensorflow, Python
+* Included Notebooks
+    *  Cats_vs_Dogs_Image_Classifier
+    *  Tackling_Overfitting_Cats_vs_Dogs_Classifier
+    *  Pre_Trained_Model_For_Cats_vs_Dog_Classifier
+    *  Multi_Class_Classifier_Sign_Language
