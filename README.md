@@ -10,7 +10,7 @@
 * Skills -> ConvNets, Overfitting, Data Augumentation, Keras ImageDataGenerator, Dropout, Multi-class classifier, Tensorflow, Python
 * Included Notebooks
     *  Cats_vs_Dogs_Image_Classifier
-          https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Cats_vs_Dogs_Image_Classifier.ipynb
+          *  https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Cats_vs_Dogs_Image_Classifier.ipynb
     *  Tackling_Overfitting_Cats_vs_Dogs_Classifier
     *  Pre_Trained_Model_For_Cats_vs_Dog_Classifier
     *  Multi_Class_Classifier_Sign_Language
