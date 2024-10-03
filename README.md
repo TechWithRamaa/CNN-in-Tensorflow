@@ -11,7 +11,7 @@
 ConvNets, Overfitting, Data Augumentation, Keras ImageDataGenerator, Dropout, Multi-class classifier, Tensorflow, Python
 
 ## Included Notebooks
-    *  [Cats_vs_Dogs_Image_Classifier](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Cats_vs_Dogs_Image_Classifier.ipynb)
-    *  [Tackling_Overfitting_Cats_vs_Dogs_Classifier](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Tackling_Overfitting_Cats_vs_Dogs_Classifier.ipynb)
-    *  [Pre_Trained_Model_For_Cats_vs_Dog_Classifier](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Pre_Trained_Model_For_Cats_vs_Dog_Classifier.ipynb)
-    *  [Multi_Class_Classifier_Sign_Language](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Multi_Class_Classifier_Sign_Language.ipynb)
+    1 [Cats_vs_Dogs_Image_Classifier](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Cats_vs_Dogs_Image_Classifier.ipynb)
+    2 [Tackling_Overfitting_Cats_vs_Dogs_Classifier](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Tackling_Overfitting_Cats_vs_Dogs_Classifier.ipynb)
+    3 [Pre_Trained_Model_For_Cats_vs_Dog_Classifier](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Pre_Trained_Model_For_Cats_vs_Dog_Classifier.ipynb)
+    4 [Multi_Class_Classifier_Sign_Language](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Multi_Class_Classifier_Sign_Language.ipynb)
