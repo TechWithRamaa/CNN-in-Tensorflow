@@ -5,7 +5,7 @@
 * Kaggle Dataset - https://www.kaggle.com/c/dogs-vs-cats/overview
 
 * These notebooks are submitted as part of assignments while completing a course in Coursera
-  [DeepLearnin.ai](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+  [DeepLearning.ai](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
   
 ## Skills 
 ConvNets, Overfitting, Data Augumentation, Keras ImageDataGenerator, Dropout, Multi-class classifier, Tensorflow, Python
