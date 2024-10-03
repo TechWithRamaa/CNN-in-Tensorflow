@@ -5,15 +5,13 @@
 * Kaggle Dataset - https://www.kaggle.com/c/dogs-vs-cats/overview
 
 * These notebooks are submitted as part of assignments while completing a course in Coursera
-  https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
+  [DeepLearnin.ai](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
   
-* Skills -> ConvNets, Overfitting, Data Augumentation, Keras ImageDataGenerator, Dropout, Multi-class classifier, Tensorflow, Python
-* Included Notebooks
-    *  Cats_vs_Dogs_Image_Classifier
-          *  https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Cats_vs_Dogs_Image_Classifier.ipynb
-    *  Tackling_Overfitting_Cats_vs_Dogs_Classifier
-          *  https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Tackling_Overfitting_Cats_vs_Dogs_Classifier.ipynb  
-    *  Pre_Trained_Model_For_Cats_vs_Dog_Classifier
-          *  https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Pre_Trained_Model_For_Cats_vs_Dog_Classifier.ipynb
-    *  Multi_Class_Classifier_Sign_Language
-          *  https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Multi_Class_Classifier_Sign_Language.ipynb
+## Skills 
+ConvNets, Overfitting, Data Augumentation, Keras ImageDataGenerator, Dropout, Multi-class classifier, Tensorflow, Python
+
+## Included Notebooks
+    *  [Cats_vs_Dogs_Image_Classifier](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Cats_vs_Dogs_Image_Classifier.ipynb)
+    *  [Tackling_Overfitting_Cats_vs_Dogs_Classifier](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Tackling_Overfitting_Cats_vs_Dogs_Classifier.ipynb)
+    *  [Pre_Trained_Model_For_Cats_vs_Dog_Classifier](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Pre_Trained_Model_For_Cats_vs_Dog_Classifier.ipynb)
+    *  [Multi_Class_Classifier_Sign_Language](https://github.com/TechWithRamaa/ConvNets-in-Tensorflow/blob/main/Multi_Class_Classifier_Sign_Language.ipynb)
